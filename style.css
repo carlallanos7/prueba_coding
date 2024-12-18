@@ -1,0 +1,17 @@
+.container {
+    width: 950px;
+    background-color: #ebe6e6;
+    margin:0 auto;
+    display: flex;
+    padding: 20px;
+
+}
+
+.caja{
+    width: 120px;
+    height: 60px;
+    border: 1px solid;
+    color: yellow;
+    line-height: 120px;
+    margin: 5px;    
+}

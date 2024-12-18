@@ -5,13 +5,15 @@
     display: flex;
     padding: 20px;
 
+
 }
 
 .caja{
     width: 120px;
     height: 60px;
     border: 1px solid;
-    color: yellow;
+    color: rgb(196, 196, 93);
     line-height: 120px;
-    margin: 5px;    
+    margin: 5px;
+    flex: 1;
 }
